@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sampleshoopingcart/static/css/main.5ff8682f.css",
+    "main.js": "/sampleshoopingcart/static/js/main.a022773c.js",
+    "index.html": "/sampleshoopingcart/index.html",
+    "main.5ff8682f.css.map": "/sampleshoopingcart/static/css/main.5ff8682f.css.map",
+    "main.a022773c.js.map": "/sampleshoopingcart/static/js/main.a022773c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff8682f.css",
+    "static/js/main.a022773c.js"
+  ]
+}
